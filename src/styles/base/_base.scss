@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap&subset=latin-ext');
+* {
+  margin: 0;
+  padding: 0 ;
+  box-sizing: border-box;
+  outline: none !important;
+  -webkit-tap-highlight-color: transparent;
+}
+
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: $m-size;
+  margin: 0;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: default;
+}
+
+

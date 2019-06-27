@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "building": "4",
+    "city": "Gdynia",
+    "flat": "4",
+    "image": "",
+    "lat": 54.5168902,
+    "lng": 18.5391106,
+    "name": "Wojskowa Specjalistyczna Przychodnia Lekarska",
+    "ocp": "82",
+    "street": "Kazimierza Pułaskiego",
+    "type": ["Stomatologia", "Ortopedia"],
+    "zipcode": "81-368"
+  },
+  {
+    "id": 2,
+    "building": "4",
+    "city": "Gdynia",
+    "flat": "4",
+    "image": "",
+    "lat": 54.5143243,
+    "lng": 18.5396041,
+    "name": "Wojskowa Specjalistyczna Przychodnia Lekarska",
+    "ocp": "12",
+    "street": "Kazimierza Pułaskiego",
+    "type": ["Stomatologia", "Ortopedia"],
+    "zipcode": "81-368"
+  },
+  {
+    "id": 3,
+    "building": "4",
+    "city": "Gdynia",
+    "flat": "4",
+    "image": "",
+    "lat": 54.5125929,
+    "lng": 18.5442819,
+    "name": "Wojskowa Specjalistyczna Przychodnia Lekarska",
+    "ocp": "52",
+    "street": "Kazimierza Pułaskiego",
+    "type": ["Stomatologia", "Ortopedia"],
+    "zipcode": "81-368"
+  }
+]

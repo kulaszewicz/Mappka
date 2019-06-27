@@ -1,0 +1,70 @@
+.filter-img {
+  position: absolute;
+  top: 5%;
+  margin-top: 3%;
+  right: 6%;
+  width: 5%;
+  cursor: pointer;
+}
+
+.filter-img-beach {
+  position: absolute;
+  top:15%;
+  margin-top: 3%;
+  right: 6%;
+  width: 5%;
+  cursor: pointer;
+}
+
+.filter-img-sor {
+  position: absolute;
+  top:25%;
+  margin-top: 3%;
+  right: 6%;
+  width: 5%;
+  cursor: pointer;
+}
+
+.filter-img-club {
+  position: absolute;
+  top:35%;
+  margin-top: 3%;
+  right: 6%;
+  width: 5%;
+  cursor: pointer;
+}
+
+.filter-img-event {
+  position: absolute;
+  top:45%;
+  margin-top: 3%;
+  right: 6%;
+  width: 5%;
+  cursor: pointer;
+}
+
+.filter-img-parking {
+  position: absolute;
+  top:55%;
+  margin-top: 3%;
+  right: 6%;
+  width: 5%;
+  cursor: pointer;
+}
+
+
+
+.filter-img-office {
+  position: absolute;
+  top:65%;
+  margin-top: 3%;
+  right: 6%;
+  width: 5%;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 502px) {
+  .filter-img {
+    display: none;
+  }
+}

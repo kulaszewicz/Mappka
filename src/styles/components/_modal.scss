@@ -1,0 +1,74 @@
+
+
+.ReactModalPortal > div {
+  opacity: 0;
+}
+
+
+.ReactModalPortal .ReactModal__Overlay {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  transition: opacity 400ms ease-in-out;
+}
+
+.ReactModalPortal .ReactModal__Overlay--after-open {
+  opacity: 1;
+}
+
+
+.ReactModalPortal .ReactModal__Overlay--before-close {
+  opacity: 0;
+}
+.modal{
+  background: #41434e;
+  color: rgba(19, 5, 23, 0.67);
+  width: 40rem;
+  outline: none;
+  padding: 20px;
+  border-radius: 10% ;
+}
+
+.modal-header {
+  width: 100%;
+  position: relative;
+}
+
+.modal-img{
+  width: 30%;
+  border-radius: 50%;
+  margin-left: 35%;
+  margin-right: 35%;
+}
+
+.modal-name{
+  text-align: center;
+}
+
+.modal-date{
+  padding-top: 3px;
+}
+
+.modal-time{
+  padding-top: 3px;
+}
+
+.modal-desc{
+  padding-top: 3px;
+}
+
+.modal ul {
+  margin-left: 10px;
+}
+
+.modal-close-ok {
+  margin-left: 35%;
+  margin-right: 35%;
+  width: 30%;
+  background-color: Transparent;
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+  overflow: hidden;
+  outline:none;
+}
